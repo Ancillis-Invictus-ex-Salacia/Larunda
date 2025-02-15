@@ -1,0 +1,1 @@
+give @p netherite_ingot[item_name='"Aquila"',item_model="isv:aquila",lore=['{"color":"white","italic":true,"text":"A coin worth"}','[{"color":"white","italic":true,"text":"100"},{"color":"white","italic":true,"text":"Đ"}]'],max_stack_size=99] 1
