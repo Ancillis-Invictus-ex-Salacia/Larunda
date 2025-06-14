@@ -1,0 +1,77 @@
+{
+    "type": "minecraft:multi_action",
+    "title": "Summon Currency Exchangers",
+    "pause": false,
+    "can_close_with_escape": true,
+    "columns": 2,
+    "after_action":"close",
+    "body": {
+        "type": "minecraft:item",
+        "item": {
+            "id":"dirt",
+            "components":{
+                "item_model":"isv:writ",
+                "item_name":""
+            }
+        }
+    },
+    
+    "actions": [
+        {
+            "label": "Republic Brady Bucks - Up",
+            "action": {
+                "type": "run_command",
+                "command": "/function rpb:summon_up_banker"
+            }
+        },
+        {
+            "label": "Territory Shard - Up",
+            "action": {
+                "type": "run_command",
+                "command": "/function abt:summon_up_banker"
+            }
+        },
+        {
+            "label": "Republic Brady Bucks - Down",
+            "action": {
+                "type": "run_command",
+                "command": "/function rpb:summon_down_banker"
+            }
+        },
+        {
+            "label": "Territory Shard - Down",
+            "action": {
+                "type": "run_command",
+                "command": "/function abt:summon_down_banker"
+            }
+        },        
+        {
+            "label": "Regency Guilder - Up",
+            "action": {
+                "type": "run_command",
+                "command": "/function brg:summon_up_banker"
+            }
+        },
+        {
+            "label": "Imperial Denarii - Up",
+            "action": {
+                "type": "run_command",
+                "command": "/function isv:summon_up_banker"
+            }
+        },
+        {
+            "label": "Regency Guilder - Down",
+            "action": {
+                "type": "run_command",
+                "command": "/function brg:summon_down_banker"
+            }
+        },
+        {
+            "label": "Imperial Denarii - Down",
+            "action": {
+                "type": "run_command",
+                "command": "/function isv:summon_down_banker"
+            }
+        }
+    ]
+}

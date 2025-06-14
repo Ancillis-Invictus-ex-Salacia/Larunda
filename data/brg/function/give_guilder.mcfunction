@@ -1,0 +1,1 @@
+give @p blue_dye[item_name="Guilder",item_model="brg:guilder",lore=[{"color":"white","italic":true,"text":"A coin worth"},[{"color":"white","italic":true,"text":"1"},{"color":"dark_blue","italic":true,"text":"Ǥ"}]],max_stack_size=99] 1

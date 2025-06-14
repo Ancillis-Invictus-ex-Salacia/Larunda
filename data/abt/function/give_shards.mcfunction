@@ -1,0 +1,1 @@
+give @p yellow_dye[item_name="Shard Cluster (125k)",item_model="abt:shards_125e3",lore=[{"color":"white","italic":true,"text":"A cluster of"},[{"color":"white","italic":true,"text":"125ᴇ3"},{"color":"gold","italic":true,"text":"shards"}]],max_stack_size=99] 1

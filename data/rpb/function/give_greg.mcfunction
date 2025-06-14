@@ -1,0 +1,1 @@
+give @p red_dye[item_name="Greg Buck",item_model="rpb:greg",lore=[{"color":"white","italic":true,"text":"A coin worth"},[{"color":"white","italic":true,"text":"1"},{"color":"dark_red","italic":true,"text":"𝕭"}]],max_stack_size=64] 1

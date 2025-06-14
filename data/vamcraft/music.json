@@ -1,0 +1,250 @@
+{
+    "type": "minecraft:multi_action",
+    "title": "Sound Board ♫",
+    "pause": false,
+    "can_close_with_escape": true,
+    "columns": 5,
+    "body": {
+        "type": "minecraft:plain_message",
+        "contents": "Click to play! ▶"
+    },
+    
+    "actions": [
+        {
+            "label": "Disc - 11",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.11 master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - 13",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.13 master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - 5",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.5 master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Blocks",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.blocks master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Chat",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.chat master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Chirp",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.chirp master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Creator",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.creator master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Creator (Music Box)",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.creator_music_box master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Far",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.far master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Mall",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.mall master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Mellohi",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.mellohi master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Otherside",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.otherside master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Pigstep",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.pigstep master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Precipice",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.precipice master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Relic",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.relic master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Stal",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.stal master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Strad",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.strad master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Tears",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.tears master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Wait",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.wait master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Disc - Ward",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music_disc.ward master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Creative",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music.creative master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Credits",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music.credits master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Dragon",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music.dragon master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Game",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music.game master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Menu",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music.menu master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Overworld",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music.overworld.forest master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "Nether",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music.nether.nether_wastes master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": "End",
+            "width": 80,
+            "action": {
+                "type": "minecraft:dynamic/run_command",
+                "template": "/playsound minecraft:music.end master @s ~ ~ ~ 9999 $(tempo)"
+            }
+        },
+        {
+            "label": {
+                "text": "⬜",
+                "bold": true,
+                "color": "#ff2424"
+            },
+            "width": 80,
+            "action": {
+                "type": "minecraft:run_command",
+                "command": "/stopsound @s"
+            }
+        }
+    ]
+}
