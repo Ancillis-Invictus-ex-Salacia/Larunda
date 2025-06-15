@@ -1,1 +1,1 @@
-execute if entity @p[nbt={Inventory:[{id:"minecraft:disc_fragment_5",components:{"minecraft:item_model":"brg:seal"}}]}] run return 1
+execute if entity @p[nbt={Inventory:[{id:"minecraft:disc_fragment_5",components:{"minecraft:item_model":"isv:seal"}}]}] run return 1
