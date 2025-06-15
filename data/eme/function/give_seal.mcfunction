@@ -1,0 +1,1 @@
+give @p minecraft:disc_fragment_5[item_model="eme:seal",item_name={"bold":true,"text":"Emerald Empery Seal"},rarity="epic",damage_resistant={types:"#minecraft:is_fire"}] 1

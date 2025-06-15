@@ -1,0 +1,1 @@
+give @p minecraft:disc_fragment_5[item_model="abt:seal",item_name={"bold":true,"text":"Amber Territories Seal"},rarity="epic",damage_resistant={types:"#minecraft:is_fire"}] 1

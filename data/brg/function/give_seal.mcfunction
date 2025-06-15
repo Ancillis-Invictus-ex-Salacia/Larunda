@@ -1,0 +1,1 @@
+give @p minecraft:disc_fragment_5[item_model="brg:seal",item_name={"bold":true,"text":"Blue Regency Seal"},rarity="epic",damage_resistant={types:"#minecraft:is_fire"}] 1

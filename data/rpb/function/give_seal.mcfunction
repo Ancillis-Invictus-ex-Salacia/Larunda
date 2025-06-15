@@ -1,0 +1,1 @@
+give @p minecraft:disc_fragment_5[item_model="rpb:seal",item_name={"bold":true,"text":"Red Republic Seal"},rarity="epic",damage_resistant={types:"#minecraft:is_fire"}] 1
