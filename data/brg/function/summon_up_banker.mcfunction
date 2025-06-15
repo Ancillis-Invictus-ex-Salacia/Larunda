@@ -1,4 +1,4 @@
-/summon villager ~ ~ ~ {\
+summon villager ~ ~ ~ {\
    CustomNameVisible:0b,\
    PersistenceRequired:1b,NoAI:0b,CanPickUpLoot:1b,\
    CustomName:{"bold":true,"color":"dark_blue","text":"Blue Regency Banker"},\
