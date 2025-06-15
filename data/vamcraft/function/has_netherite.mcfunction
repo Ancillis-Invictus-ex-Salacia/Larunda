@@ -1,0 +1,1 @@
+execute if entity @p[nbt={Inventory:[{id:"minecraft:netherite_ingot"}]}] run return 1

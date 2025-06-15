@@ -1,0 +1,2 @@
+execute if function isv:has_seal if function vamcraft:has_netherite run function isv:give_aquila
+execute if function isv:has_seal if function vamcraft:has_netherite run clear @p minecraft:netherite_ingot 1

@@ -1,0 +1,1 @@
+give @p diamond[item_name="Crown",item_model="brg:crown",lore=[{"color":"white","italic":true,"text":"A coin worth"},[{"color":"white","italic":true,"text":"5"},{"color":"dark_blue","italic":true,"text":"Ǥ"}]],max_stack_size=99] 1
