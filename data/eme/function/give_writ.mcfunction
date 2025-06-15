@@ -1,0 +1,1 @@
+give @p paper[item_model="eme:writ",item_name="Emerald Empery Writ"] 1

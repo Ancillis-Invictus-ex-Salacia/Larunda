@@ -1,0 +1,1 @@
+give @p paper[item_model="brg:writ",item_name="Blue Regencies Writ"] 1

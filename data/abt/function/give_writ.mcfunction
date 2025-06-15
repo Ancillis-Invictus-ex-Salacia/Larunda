@@ -1,0 +1,1 @@
+give @p paper[item_model="abt:writ",item_name="Amber Territories Writ"] 1

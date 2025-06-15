@@ -1,0 +1,1 @@
+give @p paper[item_model="isv:writ",item_name="Imperial Writ"] 1

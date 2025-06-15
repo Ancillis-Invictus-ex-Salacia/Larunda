@@ -1,0 +1,1 @@
+give @p paper[item_model="rpb:writ",item_name="Red Republic Writ"] 1
