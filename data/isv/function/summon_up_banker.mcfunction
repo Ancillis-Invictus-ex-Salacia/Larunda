@@ -54,4 +54,4 @@ summon villager ~ ~ ~ {\
   }\
 }
 
-trigger summon_isv_banker_down set 0
+#trigger summon_isv_banker_down set 0
